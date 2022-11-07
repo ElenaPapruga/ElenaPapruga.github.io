@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ead63f4a.css",
+    "main.js": "/static/js/main.695f3f51.js",
+    "static/js/787.a5b05271.chunk.js": "/static/js/787.a5b05271.chunk.js",
+    "static/media/promo-main.png": "/static/media/promo-main.78050b13d6610def2325.png",
+    "static/media/avatar.jpg": "/static/media/avatar.8a0ac9739cb9481020d5.jpg",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.eec0ea57721daa33c7a2.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.e148c4a1158f8cee8285.woff",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.d0a58d956cf2f4cf078f.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.26a30a5f1103393aac70.woff2",
+    "static/media/tenor-sans.ttf": "/static/media/tenor-sans.44799369bfe008d182c9.ttf",
+    "static/media/logo.png": "/static/media/logo.70cf175546dc9e2041c6.png",
+    "static/media/promo-inst.svg": "/static/media/promo-inst.195ab101e139d778eb5a8725951d31bb.svg",
+    "static/media/logo.svg": "/static/media/logo.c1b0ba1ce8a4bc43339a.svg",
+    "static/media/promo-twitter.svg": "/static/media/promo-twitter.98c6fad20ed47d28c27c124d77205d9d.svg",
+    "index.html": "/index.html",
+    "static/media/img_profile.svg": "/static/media/img_profile.7ddf01d28dd819d8f32db7283a007419.svg",
+    "static/media/icon__delete-movie.svg": "/static/media/icon__delete-movie.d197a75e7d702524af49.svg",
+    "static/media/icon__save-movie_no_active.svg": "/static/media/icon__save-movie_no_active.bde1ae1aa2c66abec187.svg",
+    "static/media/img_burger.svg": "/static/media/img_burger.08035af1e508cd8cfed5.svg",
+    "static/media/icon__save-movie_active.svg": "/static/media/icon__save-movie_active.b3917aaa7195bca16ee4.svg",
+    "static/media/close.svg": "/static/media/close.80dfd5bd01b8fe0a895e.svg",
+    "static/media/strelka.svg": "/static/media/strelka.2f133fb2a9b9c682afa2b8ba82767e72.svg",
+    "main.ead63f4a.css.map": "/static/css/main.ead63f4a.css.map",
+    "main.695f3f51.js.map": "/static/js/main.695f3f51.js.map",
+    "787.a5b05271.chunk.js.map": "/static/js/787.a5b05271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ead63f4a.css",
+    "static/js/main.695f3f51.js"
+  ]
+}
